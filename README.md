@@ -11,8 +11,14 @@
   * 조바심에 사로잡혀 나약해 지지말자 
   * 목표 : GSAP 라이브러리 정복!
   
-## My
-<img alt="MyTechBlog" src="https://img.shields.io/badge/My Tech Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
+---
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+
+---
 
 ## Language and Tools
 <p>
