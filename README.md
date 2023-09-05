@@ -9,7 +9,7 @@
 ## Motto
   * 포기하지 않고 끝까지 간다면 웃는자가 된다.
   * 조바심에 사로잡혀 나약해 지지말자 
-  * 목표 : GSAP 라이브러리 정복!
+  * 학점은행제 시작!! 
   
 ---
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
