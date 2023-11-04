@@ -1,6 +1,4 @@
 <div style="background-color:#0d1117">
-<br/>
-
 ## Motto
   * 포기하지 않고 끝까지 간다면 웃는자가 된다.
   * 조바심에 사로잡혀 나약해 지지말자 
