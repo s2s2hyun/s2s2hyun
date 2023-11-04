@@ -1,10 +1,5 @@
 <div style="background-color:#0d1117">
 <br/>
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Carter+One&size=35&duration=4000&color=80FF00&center=true&vCenter=true&width=405&height=40&lines=Hi+there+%F0%9F%91%8B+I'm+s2s2hyun)](https://git.io/typing-svg)
-
-</div>
 
 ## Motto
   * 포기하지 않고 끝까지 간다면 웃는자가 된다.
